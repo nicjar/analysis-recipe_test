@@ -8,6 +8,6 @@
 - Do that
 - Do this
 
-## Experimental recipe
+## Recipe 3
 - Don't do this
 - Don't do that
